@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\CSM\\CalvinNicdao\\Calvin\\CalvinNicdao.PrelimActivity1\\CalvinNicdao.DateCalculator\\CalvinNicdao.DateCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\CSM\\PrelimAct1\\CalvinNicdao.PrelimActivity1\\CalvinNicdao.DateCalculator\\CalvinNicdao.DateCalculator.csproj",
       "projectName": "CalvinNicdao.DateCalculator",
-      "projectPath": "C:\\Users\\user\\Documents\\CSM\\CalvinNicdao\\Calvin\\CalvinNicdao.PrelimActivity1\\CalvinNicdao.DateCalculator\\CalvinNicdao.DateCalculator.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\CSM\\PrelimAct1\\CalvinNicdao.PrelimActivity1\\CalvinNicdao.DateCalculator\\CalvinNicdao.DateCalculator.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\CSM\\CalvinNicdao\\Calvin\\CalvinNicdao.PrelimActivity1\\CalvinNicdao.DateCalculator\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\CSM\\PrelimAct1\\CalvinNicdao.PrelimActivity1\\CalvinNicdao.DateCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

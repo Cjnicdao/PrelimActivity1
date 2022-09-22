@@ -2,5 +2,9 @@
 @model CalvinNicdao.DateCalculator.Pages.DatesModel
 @{
 }
-
-(EndDate - StartDate).TotalDays
+<form method="post">
+    <input type="datetime-local" id="meeting-time"
+           name="meeting-time" value="2022-09-20T13:10"
+           min="2022-09-20T00:00" max="2022-09-22T00:00">
+    <input type="submit" name="Please submit!">
+</form>
